@@ -10,3 +10,13 @@ summary: |-
 programming_language: Kotlin
 content:
   - HelloKotlin
+  - InputOutput
+  - Variables
+  - BasicTypes
+  - Collections
+  - ControlFlow
+  - Functions
+  - OOPIntro
+  - Visibility
+  - NullSafety
+  - Files

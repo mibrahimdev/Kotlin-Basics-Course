@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.kotlinx:kotlinx:aar:1.1.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.kotlinx" artifactId="kotlinx" version="1.1.0" />
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kotlinx/kotlinx/1.1.0/8de2ecbc7390a0eb4bfe1a0fb28680ca499d892f/kotlinx-1.1.0.aar" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.kotlinx/kotlinx/1.1.0/f82f70aa9733b1d4bb512142166cee356aae9983/kotlinx-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

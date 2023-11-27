@@ -6,3 +6,5 @@ files:
     visible: false
   - name: test/input.txt
     visible: false
+  - name: output.png
+    visible: true

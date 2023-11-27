@@ -39,12 +39,15 @@
     <output-test url="file://$MODULE_DIR$/../../../../HelloKotlin/task1/out/test/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../HelloKotlin/task1/src/test" />
-    <content url="file://$MODULE_DIR$/../../../../HelloKotlin/task1/test" />
+    <content url="file://$MODULE_DIR$/../../../../HelloKotlin/task1/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../HelloKotlin/task1/test" isTestSource="true" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Kotlin-Basics.HelloKotlin-task1.main" />
     <orderEntry type="module" module-name="Kotlin-Basics.util.main" />
     <orderEntry type="module" module-name="Kotlin-Basics.util.test" production-on-test="" />
+    <orderEntry type="library" name="Gradle: com.kotlinx:kotlinx:aar:1.1.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.0" level="project" />
     <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.0" level="project" />
@@ -52,6 +55,11 @@
     <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.9.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.material:material:1.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.databinding:databinding-common:8.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.databinding:databinding-runtime:8.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.databinding:databinding-adapters:8.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.databinding:databinding-ktx:8.1.2" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="Kotlin-Basics.HelloKotlin-task1.main" />
 </module>

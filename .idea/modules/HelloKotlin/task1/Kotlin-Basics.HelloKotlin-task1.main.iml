@@ -43,10 +43,16 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Kotlin-Basics.util.main" />
+    <orderEntry type="library" name="Gradle: com.kotlinx:kotlinx:aar:1.1.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.9.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.9.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.9.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.material:material:1.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.databinding:databinding-common:8.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.databinding:databinding-runtime:8.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.databinding:databinding-adapters:8.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.databinding:databinding-ktx:8.1.2" level="project" />
   </component>
 </module>
