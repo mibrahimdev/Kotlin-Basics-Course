@@ -24,6 +24,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Variables/task1/Kotlin-Basics.Variables-task1.iml" filepath="$PROJECT_DIR$/.idea/modules/Variables/task1/Kotlin-Basics.Variables-task1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Variables/task1/Kotlin-Basics.Variables-task1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Variables/task1/Kotlin-Basics.Variables-task1.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Variables/task1/Kotlin-Basics.Variables-task1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Variables/task1/Kotlin-Basics.Variables-task1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Variables/task2/Kotlin-Basics.Variables-task2.iml" filepath="$PROJECT_DIR$/.idea/modules/Variables/task2/Kotlin-Basics.Variables-task2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Variables/task2/Kotlin-Basics.Variables-task2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Variables/task2/Kotlin-Basics.Variables-task2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Variables/task2/Kotlin-Basics.Variables-task2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Variables/task2/Kotlin-Basics.Variables-task2.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Kotlin-Basics.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Kotlin-Basics.util.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Kotlin-Basics.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Kotlin-Basics.util.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Kotlin-Basics.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Kotlin-Basics.util.test.iml" />
