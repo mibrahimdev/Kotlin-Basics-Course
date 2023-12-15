@@ -10,8 +10,8 @@ summary: |-
 programming_language: Kotlin
 content:
   - HelloKotlin
-  - InputOutput
   - Variables
+  - InputOutput
   - BasicTypes
   - Collections
   - ControlFlow
