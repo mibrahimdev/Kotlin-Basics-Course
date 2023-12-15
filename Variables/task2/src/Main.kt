@@ -1,9 +1,8 @@
-// type your solution here
 
 fun main() {
 
     var number = 70
-//
+
     number = 40
 
     number = number + 40
