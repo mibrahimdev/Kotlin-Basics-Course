@@ -1,5 +1,7 @@
 ## Kotlin Basics Course
 
+[![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+
 <img src="images/youtube-channel-thumbnail.png" alt="YouTube Channel Thumbnail" width="600">
 
 This course is designed to be your first step into programming. Kotlin is a modern and beautiful language to learn. After completing this course, you will be able to write your own console programs and have a solid foundation for tackling intermediate to advanced programming topics.
