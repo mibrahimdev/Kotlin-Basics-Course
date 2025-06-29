@@ -1,5 +1,40 @@
-# Project exclude paths
-/.gradle/
-/HelloKotlin/task1/build/
-/HelloKotlin/task1/out/
-/HelloKotlin/task1/out/production/classes/
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# Gradle
+.gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# JetBrains Course Creator
+.coursecreator/
+**/lesson-remote-info.yaml
+**/task-remote-info.yaml
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
