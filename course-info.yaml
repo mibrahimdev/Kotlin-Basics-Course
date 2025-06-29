@@ -20,3 +20,15 @@ content:
   - Visibility
   - NullSafety
   - Files
+environment_settings:
+  jvm_language_level: JDK_1_8
+additional_files:
+  - name: images/youtube-channel-thumbnail.png
+    is_binary: true
+  - name: README.md
+  - name: build.gradle
+  - name: settings.gradle
+  - name: .git/COMMIT_EDITMSG
+  - name: .git/refs/remotes/origin/master
+  - name: .git/logs/refs/remotes/origin/master
+yaml_version: 4

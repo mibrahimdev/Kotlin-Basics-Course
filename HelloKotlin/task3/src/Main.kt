@@ -1,13 +1,14 @@
 fun main() {
     println(
         """
-        Imagination is more important than knowledge.
-        For knowledge is limited, whereas imagination embraces the entire world,
-        stimulating progress, giving birth to evolution.
-    """.trimIndent())
+            Prophet (peace and blessings of Allah be upon him) said:
+            "None of you [truly] believes until he loves for his brother that which he loves for himself."
+        """
+    )
+
+    println()
 
     println("------")
-    println("------")
 
-    println("- Albert Einstein")
+    println("[Al-Bukhari] [Muslim]")
 }

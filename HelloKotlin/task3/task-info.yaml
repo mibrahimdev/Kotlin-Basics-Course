@@ -8,3 +8,4 @@ files:
     visible: false
   - name: output.png
     visible: true
+    is_binary: true
